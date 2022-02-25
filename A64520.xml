@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Whitehall, July 23. 1696. This evening arrived here an express from my Lord Berkeley with letters dated the 20th of this month, off Ushant, which bring the account that follows. Published by authority.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64520</idno>
+            <idno type="STC">Wing T928A</idno>
+            <idno type="STC">ESTC R220114</idno>
+            <idno type="EEBO-CITATION">99831542</idno>
+            <idno type="PROQUEST">99831542</idno>
+            <idno type="VID">36005</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64520)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36005)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2046:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Whitehall, July 23. 1696. This evening arrived here an express from my Lord Berkeley with letters dated the 20th of this month, off Ushant, which bring the account that follows. Published by authority.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edw. Jones in the Savoy,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  1689-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-01</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:36005:1"/>
+            <!-- PDF PAGE 3 -->
+            <opener>
+               <dateline>
+                  <date>Whitehall, July 23. 1696.</date>
+               </dateline>
+            </opener>
+            <p>This Evening arrived here an Expreſs from my Lord <hi>Berkeley,</hi> with Letters dated the 20th of this Month, off <hi>
+                  <g ref="char:V">Ʋ</g>ſhant,</hi> which bring the Account that follows.</p>
+            <p>
+               <hi>Publiſhed by Authority.</hi>
+            </p>
+            <div type="body_of_account">
+               <head>A Relation of the Bombarding of <hi>St. Martins</hi> and <hi>Ollone.</hi>
+               </head>
+               <p>THE whole Fleet, under the Command of the Right Honorable the Lord Berkeley, ſailed the 3d inſtant from Uſhant towards Bel-Iſle, and in the Afternoon, upon a Signal from the Admiral, Sir Martin Beckman, with the Bomb-Veſſels, ſeparated from the Fleet, with a Convoy of ten Men of War and five Fire-ſhips, comman<g ref="char:EOLhyphen"/>ded by Capt. Mees. On the 5th we arrived, between 3 and 4 a Clock in the Afternoon, before St. Martins, where the Men of War came to an Anchor; but the Bomb Veſſels went in as far as they could go, which was about three quarters of a Mile from the Town; where, about ſix they all ſat faſt on a ſoft Ground; notwithſtanding which, they began to bombard the Town about 9 at Night, and conti<g ref="char:EOLhyphen"/>nued it till 3 the next Morning. After one hours bom<g ref="char:EOLhyphen"/>bing, there appeared five ſeveral Fires in the middle of the Town, ſome were put out, but two continued with great and lofty Flames; At 3 in the Morning the Bomb-Veſſels hawled off to refreſh the Men, and to be recruited with all Neceſſaries. About 3 a Clock in the Afternoon, when the Tide ſerved, Sir Martin Beckman ſtood in again, but more to the Eaſtward, about the ſame diſtance as be<g ref="char:EOLhyphen"/>fore from the Town, and ſo bombarded it till 4 in the Morning: The Town was all the while on Fire in many places; and the two Fires firſt mentioned continued, with conſiderable Augmentation, inſomuch, that we all judge the greateſt and richeſt part of the Town was deſtroy'd by Fire, or ſhattered in pieces by the Bombs, of which we fired Iwo thouſand two hundred and thirty, including in that Number Two hundred and ſixty Carceſſes. They fired from the Town with 18 pieces of Cannon and 4 Mortars, but without doing us any damage. The 7th in the Morning we gave over bombing of St. Martins, having left one of their Ships on Fire in the Road, and brought away a Daniſh Fly-boat laden with Brandy and Salt, up<g ref="char:EOLhyphen"/>on ſuſpicion of being French; we took alſo a Ship going in, b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſides ſeveral Boats laden with Proviſions, <hi>&amp;c.</hi> The Town is well fortified, and, as the Priſoners informed us, there was a Gariſon in it of 1200 Men. From thence we ſailed directly to Ollone, ſcituated on the Main, where we arrived about 8 in the Evening; We began immediately to bom<g ref="char:EOLhyphen"/>bard that place, and after a little while, ſome of the Houſes, which ſtand ſcattering, took fire, and were burnt to the Ground; About 12 a Clock at Night, it growing Foggy, we left off bombing, and began again about 2 in the Morning, when perceiving there were two ſeveral Towns, divided by a River or Harbour, half a quarter of a Mile broad, Sir Martin placed 7 Bomb Ships againſt the North Town, and three againſt the South Town, and ſo bombar<g ref="char:EOLhyphen"/>ded them till half an hour past 5 in the Evening; during this time the two Towns took fire in fifteen ſeveral Places, and after ſome burning were put out, except 3 in the Town on the North-ſide, which continued burning when we left it, and laſted all the Night, after we were under ſail, perceived by thoſe that had the Watch on Board the Ships, which is to be imputed to the Violence of the increaſing Flames, or to the blowing up of Houſes to avoid the ſpread<g ref="char:EOLhyphen"/>ing thereof. The North-ſide ſuffered most by reaſon of its being more cloſely built, and the best Houſes were there: The Enemy had planted four pieces of Cannon upon the Point going into the Harbor, from whence, at our coming to Anchor, the Commander of the Society Bomb-Ship, Cap<g ref="char:EOLhyphen"/>tain Jeninfer, was kill'd: We fired here 1996 Bombs and Carcaſſes, with very good effect. The fairneſs of the Wea<g ref="char:EOLhyphen"/>ther, and the light Moon, very much facilitated this ſhort and ſucceſsful Expedition; To which Sir Martin Beck<g ref="char:EOLhyphen"/>man and Capt. Mees contributed very much by their extra<g ref="char:EOLhyphen"/>ordinary Care and Diligence, being preſent both Night and Day in the hottest of the Action, to direct and encou<g ref="char:EOLhyphen"/>rage the Service; which having thus performed, the Men of War and Bomb-Veſſels rejoyn'd the Fleet.</p>
+               <p>
+                  <hi>This Evening came in alſo a Mail from Holland with Letters of the 16th Inſtant from His Majeſties Camp at Nivelle; they inform us, that the Army was come to that place in two days march from Gemblours, and was to march again the 17th towards Soignies. The Mareſchal de Boufflers decamped the 15th from St. Gerard, and was marching likewiſe on the other ſide of the Sambre to<g ref="char:EOLhyphen"/>wards Flanders. Part of our Heavy Baggage was ſent to Hall; and our Parties had cut off and taken ſeveral ſmall Parties of the French on their march the 16th. The Landtgrave of Heſſe was with the German Forces at Na<g ref="char:EOLhyphen"/>mur, where they were to Encamp till farther Order.</hi>
+               </p>
+               <p>
+                  <hi>They write from Piemont, That the French Army continued at Volvera; and the Allies at Moncalier; And that the Generals of the latter had refuſed to ſign the Ceſſation of Arms. On the Upper Rhine the Confederate Army continued at Zeiteren; And the French at Oſtofen: Two Regiments of Horſe and three of Dragoons, of the Troops of the Elector Palatin, were come in<g ref="char:EOLhyphen"/>to the Neighbourhood of Francfort, in their march to join the Germans. The Letters from Vienna of the 14th tell us, they had Advice from Hun<g ref="char:EOLhyphen"/>gary, that the additional Troops of Saxony, being 4000 Men, had join'd the Imperial Army, which had thereupon paſſed the River Maroſh, and ad<g ref="char:EOLhyphen"/>vanced towards Temeſwaer.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>Edw. Jones</hi> in the <hi>Savoy,</hi> 1696.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
